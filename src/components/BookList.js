@@ -38,8 +38,6 @@ const BookList = ({ books }) => {
       </ul>
     );
   }
-
-  return <div></div>;
 };
 
 export default BookList;
